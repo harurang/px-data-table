@@ -84,13 +84,6 @@ common/abstract rules go in px-data-table-sketch.scss, not in this file.
 @font-face {
   font-family: "GE Inspira Sans";
   font-weight: normal;
-  font-style: normal;
-  src: url("../px-typography-design/type/GEInspiraSans-Regular-v01.eot");
-  src: url("../px-typography-design/type/GEInspiraSans-Regular-v01.eot?#iefix") format("embedded-opentype"), url("../px-typography-design/type/GEInspiraSans-Regular-v01.woff") format("woff"), url("../px-typography-design/type/GEInspiraSans-Regular-v01.ttf") format("truetype"), url("../px-typography-design/type/GEInspiraSans-Regular-v01.svg#GE Inspira Sans") format("svg"); }
-
-@font-face {
-  font-family: "GE Inspira Sans";
-  font-weight: normal;
   font-style: italic;
   src: url("../px-typography-design/type/GEInspiraSans-Italic-v01.eot");
   src: url("../px-typography-design/type/GEInspiraSans-Italic-v01.eot?#iefix") format("embedded-opentype"), url("../px-typography-design/type/GEInspiraSans-Italic-v01.woff") format("woff"), url("../px-typography-design/type/GEInspiraSans-Italic-v01.ttf") format("truetype"), url("../px-typography-design/type/GEInspiraSans-Italic-v01.svg#GE Inspira Sans") format("svg"); }
